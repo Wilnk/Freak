@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个爱吃番茄炒蛋的怪咖
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Freak
 language: en
 timezone: ''
 
@@ -97,7 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+##theme: landscape
+theme: butterfly
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
