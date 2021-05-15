@@ -1,0 +1,2 @@
+# Freak
+Personal Blog
